@@ -1,0 +1,3 @@
+Test git for mac.
+
+Seems nice.
